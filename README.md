@@ -10,7 +10,7 @@ After your game is finished, data will be deleted off the file host.
 
 ## License 
 
-This tool is distributed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+This tool is distributed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
 ## Endorsement
 
