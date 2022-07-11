@@ -1,5 +1,8 @@
 # Live-Game-Tracker-Client
 
+## Disclaimer
+This program is current under review by Riot Games and its extension is under review by Twitch. Do not used unless this readme says they've been approved.
+
 ## Description
 This is the client program for the Live Game Tracker for League of Legends Extension on Twitch. 
 
